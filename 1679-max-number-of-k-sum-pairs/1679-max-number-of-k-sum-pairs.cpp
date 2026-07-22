@@ -10,8 +10,7 @@ public:
             else if(sum<k) s++;
             else if(sum==k){
                 cnt++;
-                // nums.remove(nums[s]);
-                // nums.remove(nums[e]);
+               
                 s++;
                 e--;
                 
