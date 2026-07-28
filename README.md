@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/razashoeb840/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/razashoeb840/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/razashoeb840/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/razashoeb840/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2079-watering-plants](https://github.com/razashoeb840/Leetcode/tree/master/2079-watering-plants) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/razashoeb840/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3925-concatenate-array-with-reverse](https://github.com/razashoeb840/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Geometry
 |  |
 | ------- |
