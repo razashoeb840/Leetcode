@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/razashoeb840/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/razashoeb840/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/razashoeb840/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2651-calculate-delayed-arrival-time](https://github.com/razashoeb840/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/razashoeb840/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/razashoeb840/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/razashoeb840/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
