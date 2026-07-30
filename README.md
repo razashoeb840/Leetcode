@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/razashoeb840/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/razashoeb840/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/razashoeb840/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/razashoeb840/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/razashoeb840/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/razashoeb840/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/razashoeb840/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/razashoeb840/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/razashoeb840/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/razashoeb840/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/razashoeb840/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/razashoeb840/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2315-count-asterisks](https://github.com/razashoeb840/Leetcode/tree/master/2315-count-asterisks) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/razashoeb840/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/razashoeb840/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/razashoeb840/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3856-trim-trailing-vowels](https://github.com/razashoeb840/Leetcode/tree/master/3856-trim-trailing-vowels) |
 ## Counting
