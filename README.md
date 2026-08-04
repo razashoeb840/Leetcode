@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/razashoeb840/Leetcode/tree/master/2079-watering-plants) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2653-sliding-subarray-beauty](https://github.com/razashoeb840/Leetcode/tree/master/2653-sliding-subarray-beauty) |
+| [2740-find-the-value-of-the-partition](https://github.com/razashoeb840/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [3046-split-the-array](https://github.com/razashoeb840/Leetcode/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/razashoeb840/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/razashoeb840/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/razashoeb840/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/razashoeb840/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2740-find-the-value-of-the-partition](https://github.com/razashoeb840/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/razashoeb840/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/razashoeb840/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/razashoeb840/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
