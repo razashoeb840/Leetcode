@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/razashoeb840/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/razashoeb840/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1446-consecutive-characters](https://github.com/razashoeb840/Leetcode/tree/master/1446-consecutive-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/razashoeb840/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2315-count-asterisks](https://github.com/razashoeb840/Leetcode/tree/master/2315-count-asterisks) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/razashoeb840/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
