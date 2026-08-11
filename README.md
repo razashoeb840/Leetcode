@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/razashoeb840/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/razashoeb840/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3856-trim-trailing-vowels](https://github.com/razashoeb840/Leetcode/tree/master/3856-trim-trailing-vowels) |
+| [3931-check-adjacent-digit-differences](https://github.com/razashoeb840/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/razashoeb840/Leetcode/tree/master/3941-password-strength) |
 ## Counting
 |  |
