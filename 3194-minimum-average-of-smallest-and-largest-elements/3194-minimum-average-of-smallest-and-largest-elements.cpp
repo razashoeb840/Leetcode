@@ -1,6 +1,6 @@
-// class Solution {
-// public:
-//     double minimumAverage(vector<int>& v) {
+class Solution {
+public:
+    double minimumAverage(vector<int>& v) {
 //         double ans=INT_MAX;
 //         int n=v.size()/2;
 
@@ -18,9 +18,7 @@
 //     }
 // };
 
-class Solution {
-public:
-    double minimumAverage(vector<int>& v) {
+
         sort(v.begin(),v.end());
 
         int low=0,high=v.size()-1;
