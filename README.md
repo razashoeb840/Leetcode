@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/razashoeb840/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/razashoeb840/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2079-watering-plants](https://github.com/razashoeb840/Leetcode/tree/master/2079-watering-plants) |
+| [2367-number-of-arithmetic-triplets](https://github.com/razashoeb840/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2653-sliding-subarray-beauty](https://github.com/razashoeb840/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2740-find-the-value-of-the-partition](https://github.com/razashoeb840/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/razashoeb840/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/razashoeb840/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/razashoeb840/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/razashoeb840/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/razashoeb840/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2367-number-of-arithmetic-triplets](https://github.com/razashoeb840/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/razashoeb840/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/razashoeb840/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/razashoeb840/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2367-number-of-arithmetic-triplets](https://github.com/razashoeb840/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2653-sliding-subarray-beauty](https://github.com/razashoeb840/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/razashoeb840/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
