@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/razashoeb840/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/razashoeb840/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/razashoeb840/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/razashoeb840/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2653-sliding-subarray-beauty](https://github.com/razashoeb840/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/razashoeb840/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Prefix Sum
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/razashoeb840/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/razashoeb840/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/razashoeb840/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/razashoeb840/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2367-number-of-arithmetic-triplets](https://github.com/razashoeb840/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2653-sliding-subarray-beauty](https://github.com/razashoeb840/Leetcode/tree/master/2653-sliding-subarray-beauty) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/razashoeb840/Leetcode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/razashoeb840/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/razashoeb840/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/razashoeb840/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2315-count-asterisks](https://github.com/razashoeb840/Leetcode/tree/master/2315-count-asterisks) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/razashoeb840/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/razashoeb840/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/razashoeb840/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3046-split-the-array](https://github.com/razashoeb840/Leetcode/tree/master/3046-split-the-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/razashoeb840/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Bit Manipulation
