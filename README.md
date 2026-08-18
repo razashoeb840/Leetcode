@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/razashoeb840/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2079-watering-plants](https://github.com/razashoeb840/Leetcode/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/razashoeb840/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2206-divide-array-into-equal-pairs](https://github.com/razashoeb840/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/razashoeb840/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/razashoeb840/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/razashoeb840/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/razashoeb840/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/razashoeb840/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2206-divide-array-into-equal-pairs](https://github.com/razashoeb840/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/razashoeb840/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2653-sliding-subarray-beauty](https://github.com/razashoeb840/Leetcode/tree/master/2653-sliding-subarray-beauty) |
@@ -220,11 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/razashoeb840/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2206-divide-array-into-equal-pairs](https://github.com/razashoeb840/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3046-split-the-array](https://github.com/razashoeb840/Leetcode/tree/master/3046-split-the-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/razashoeb840/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/razashoeb840/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/razashoeb840/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/razashoeb840/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Heap (Priority Queue)
