@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/razashoeb840/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/razashoeb840/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/razashoeb840/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/razashoeb840/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/razashoeb840/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/razashoeb840/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/razashoeb840/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1446-consecutive-characters](https://github.com/razashoeb840/Leetcode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/razashoeb840/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/razashoeb840/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/razashoeb840/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/razashoeb840/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2315-count-asterisks](https://github.com/razashoeb840/Leetcode/tree/master/2315-count-asterisks) |
