@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/razashoeb840/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/razashoeb840/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3895-count-digit-appearances](https://github.com/razashoeb840/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/razashoeb840/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/razashoeb840/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/razashoeb840/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3941-password-strength](https://github.com/razashoeb840/Leetcode/tree/master/3941-password-strength) |
+| [3945-digit-frequency-score](https://github.com/razashoeb840/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
