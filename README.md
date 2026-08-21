@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/razashoeb840/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/razashoeb840/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/razashoeb840/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2553-separate-the-digits-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2653-sliding-subarray-beauty](https://github.com/razashoeb840/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2740-find-the-value-of-the-partition](https://github.com/razashoeb840/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2079-watering-plants](https://github.com/razashoeb840/Leetcode/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/razashoeb840/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/razashoeb840/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/razashoeb840/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/razashoeb840/Leetcode/tree/master/3838-weighted-word-mapping) |
