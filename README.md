@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/razashoeb840/Leetcode/tree/master/0338-counting-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/razashoeb840/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/razashoeb840/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/razashoeb840/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/razashoeb840/Leetcode/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/razashoeb840/Leetcode/tree/master/0338-counting-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/razashoeb840/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/razashoeb840/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/razashoeb840/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
