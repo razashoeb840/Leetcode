@@ -1,0 +1,11 @@
+class Solution {
+public:
+    int evenNumberBitwiseORs(vector<int>& nums) {
+        int sum=0;
+        for(int x:nums){
+            if(x%2==0)
+            sum=sum|x;
+        }
+        return sum;
+    }
+};
