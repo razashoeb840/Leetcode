@@ -11,7 +11,7 @@ public:
         for(auto x:mp){
         //      for(auto i=mp.begin();i!=mp.end();i++){
         //     for(auto j=next(i);j!=mp.end();j++){
-        //         if(i->second==j->second)
+        //         if(i.second==j.second)
         //             return false;
         //     }
         // }
