@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/razashoeb840/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/razashoeb840/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/razashoeb840/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/razashoeb840/Leetcode/tree/master/0046-permutations) |
 | [0137-single-number-ii](https://github.com/razashoeb840/Leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/razashoeb840/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/razashoeb840/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -306,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/razashoeb840/Leetcode/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/razashoeb840/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
