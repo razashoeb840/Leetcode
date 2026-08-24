@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/razashoeb840/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/razashoeb840/Leetcode/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/razashoeb840/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/razashoeb840/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2553-separate-the-digits-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2653-sliding-subarray-beauty](https://github.com/razashoeb840/Leetcode/tree/master/2653-sliding-subarray-beauty) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/razashoeb840/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/razashoeb840/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/razashoeb840/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/razashoeb840/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2651-calculate-delayed-arrival-time](https://github.com/razashoeb840/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/razashoeb840/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/razashoeb840/Leetcode/tree/master/3099-harshad-number) |
