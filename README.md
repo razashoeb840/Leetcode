@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/razashoeb840/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/razashoeb840/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/razashoeb840/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/razashoeb840/Leetcode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/razashoeb840/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3833-count-dominant-indices](https://github.com/razashoeb840/Leetcode/tree/master/3833-count-dominant-indices) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/razashoeb840/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/razashoeb840/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/razashoeb840/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/razashoeb840/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/razashoeb840/Leetcode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/razashoeb840/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/razashoeb840/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
