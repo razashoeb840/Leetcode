@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/razashoeb840/Leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/razashoeb840/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/razashoeb840/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3046-split-the-array](https://github.com/razashoeb840/Leetcode/tree/master/3046-split-the-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/razashoeb840/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/razashoeb840/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/razashoeb840/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/razashoeb840/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2595-number-of-even-and-odd-bits](https://github.com/razashoeb840/Leetcode/tree/master/2595-number-of-even-and-odd-bits) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/razashoeb840/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/razashoeb840/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/razashoeb840/Leetcode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
