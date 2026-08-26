@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/razashoeb840/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/razashoeb840/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/razashoeb840/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/razashoeb840/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/razashoeb840/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/razashoeb840/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/razashoeb840/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/razashoeb840/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/razashoeb840/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/razashoeb840/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/razashoeb840/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/razashoeb840/Leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/razashoeb840/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
