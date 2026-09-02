@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/razashoeb840/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3833-count-dominant-indices](https://github.com/razashoeb840/Leetcode/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/razashoeb840/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/razashoeb840/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/razashoeb840/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/razashoeb840/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/razashoeb840/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/razashoeb840/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/razashoeb840/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/razashoeb840/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/razashoeb840/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/razashoeb840/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/razashoeb840/Leetcode/tree/master/3945-digit-frequency-score) |
