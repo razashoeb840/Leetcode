@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/razashoeb840/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/razashoeb840/Leetcode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/razashoeb840/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/razashoeb840/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3833-count-dominant-indices](https://github.com/razashoeb840/Leetcode/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/razashoeb840/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/razashoeb840/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/razashoeb840/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/razashoeb840/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/razashoeb840/Leetcode/tree/master/3731-find-missing-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/razashoeb840/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
