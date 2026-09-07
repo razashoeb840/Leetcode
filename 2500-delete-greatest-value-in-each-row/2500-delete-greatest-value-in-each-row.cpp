@@ -7,9 +7,9 @@ public:
             vector<int> a;
 
             for(auto &x:grid){
-                auto it=max_element(x.begin(),x.end());
-                a.push_back(*it);
-                x.erase(it);
+                int mx=*max_element(x.begin(),x.end());
+                a.push_back(mx);
+                x.erase(find(x.begin(),x.end(),mx));
             }
 
             ans+=*max_element(a.begin(),a.end());
