@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/razashoeb840/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/razashoeb840/Leetcode/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/razashoeb840/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/razashoeb840/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/razashoeb840/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2553-separate-the-digits-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/razashoeb840/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/razashoeb840/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/razashoeb840/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/razashoeb840/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/razashoeb840/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2651-calculate-delayed-arrival-time](https://github.com/razashoeb840/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2843-count-symmetric-integers](https://github.com/razashoeb840/Leetcode/tree/master/2843-count-symmetric-integers) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/razashoeb840/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2367-number-of-arithmetic-triplets](https://github.com/razashoeb840/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/razashoeb840/Leetcode/tree/master/2418-sort-the-people) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/razashoeb840/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2653-sliding-subarray-beauty](https://github.com/razashoeb840/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/razashoeb840/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/razashoeb840/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/razashoeb840/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/razashoeb840/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3046-split-the-array](https://github.com/razashoeb840/Leetcode/tree/master/3046-split-the-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/razashoeb840/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Bit Manipulation
