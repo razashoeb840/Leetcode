@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/razashoeb840/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/razashoeb840/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/razashoeb840/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/razashoeb840/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/razashoeb840/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/razashoeb840/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/razashoeb840/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/razashoeb840/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/razashoeb840/Leetcode/tree/master/3099-harshad-number) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/razashoeb840/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/razashoeb840/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/razashoeb840/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/razashoeb840/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/razashoeb840/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
