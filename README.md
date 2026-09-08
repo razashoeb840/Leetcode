@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/razashoeb840/Leetcode/tree/master/0260-single-number-iii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/razashoeb840/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0575-distribute-candies](https://github.com/razashoeb840/Leetcode/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/razashoeb840/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/razashoeb840/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/razashoeb840/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/razashoeb840/Leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/razashoeb840/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0575-distribute-candies](https://github.com/razashoeb840/Leetcode/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/razashoeb840/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/razashoeb840/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/razashoeb840/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
