@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/razashoeb840/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/razashoeb840/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/razashoeb840/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [3979-maximum-valid-pair-sum](https://github.com/razashoeb840/Leetcode/tree/master/3979-maximum-valid-pair-sum) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/razashoeb840/Leetcode/tree/master/2951-find-the-peaks) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/razashoeb840/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3833-count-dominant-indices](https://github.com/razashoeb840/Leetcode/tree/master/3833-count-dominant-indices) |
+| [3979-maximum-valid-pair-sum](https://github.com/razashoeb840/Leetcode/tree/master/3979-maximum-valid-pair-sum) |
 ## Simulation
 |  |
 | ------- |
