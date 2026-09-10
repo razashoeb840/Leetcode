@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/razashoeb840/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/razashoeb840/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/razashoeb840/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/razashoeb840/Leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/razashoeb840/Leetcode/tree/master/0260-single-number-iii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/razashoeb840/Leetcode/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/razashoeb840/Leetcode/tree/master/0229-majority-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/razashoeb840/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/razashoeb840/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/razashoeb840/Leetcode/tree/master/2974-minimum-number-game) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/razashoeb840/Leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/razashoeb840/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -449,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/razashoeb840/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
