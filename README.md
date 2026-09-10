@@ -435,4 +435,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/razashoeb840/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/razashoeb840/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/razashoeb840/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/razashoeb840/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/razashoeb840/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/razashoeb840/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
