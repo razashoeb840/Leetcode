@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/razashoeb840/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/razashoeb840/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/razashoeb840/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/razashoeb840/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/razashoeb840/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/razashoeb840/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/razashoeb840/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
