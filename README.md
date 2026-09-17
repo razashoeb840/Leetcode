@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/razashoeb840/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/razashoeb840/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/razashoeb840/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3917-count-indices-with-opposite-parity](https://github.com/razashoeb840/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/razashoeb840/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3979-maximum-valid-pair-sum](https://github.com/razashoeb840/Leetcode/tree/master/3979-maximum-valid-pair-sum) |
 ## Math
