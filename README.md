@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/razashoeb840/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/razashoeb840/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/razashoeb840/Leetcode/tree/master/3945-digit-frequency-score) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/razashoeb840/Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/razashoeb840/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/razashoeb840/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/razashoeb840/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/razashoeb840/Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sorting
 |  |
 | ------- |
