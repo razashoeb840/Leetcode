@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/razashoeb840/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/razashoeb840/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/razashoeb840/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/razashoeb840/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/razashoeb840/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/razashoeb840/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
