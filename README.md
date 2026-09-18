@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2740-find-the-value-of-the-partition](https://github.com/razashoeb840/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/razashoeb840/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/razashoeb840/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2895-minimum-processing-time](https://github.com/razashoeb840/Leetcode/tree/master/2895-minimum-processing-time) |
 | [2951-find-the-peaks](https://github.com/razashoeb840/Leetcode/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/razashoeb840/Leetcode/tree/master/2974-minimum-number-game) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/razashoeb840/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/razashoeb840/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/razashoeb840/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2895-minimum-processing-time](https://github.com/razashoeb840/Leetcode/tree/master/2895-minimum-processing-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/razashoeb840/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/razashoeb840/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/razashoeb840/Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/razashoeb840/Leetcode/tree/master/2418-sort-the-people) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/razashoeb840/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2740-find-the-value-of-the-partition](https://github.com/razashoeb840/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
+| [2895-minimum-processing-time](https://github.com/razashoeb840/Leetcode/tree/master/2895-minimum-processing-time) |
 | [2974-minimum-number-game](https://github.com/razashoeb840/Leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/razashoeb840/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/razashoeb840/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
