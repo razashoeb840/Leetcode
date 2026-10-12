@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2740-find-the-value-of-the-partition](https://github.com/razashoeb840/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/razashoeb840/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/razashoeb840/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/razashoeb840/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2895-minimum-processing-time](https://github.com/razashoeb840/Leetcode/tree/master/2895-minimum-processing-time) |
 | [2951-find-the-peaks](https://github.com/razashoeb840/Leetcode/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/razashoeb840/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/razashoeb840/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/razashoeb840/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/razashoeb840/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## Two Pointers
 |  |
 | ------- |
