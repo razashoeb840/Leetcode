@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/razashoeb840/Leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/razashoeb840/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/razashoeb840/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3028-ant-on-the-boundary](https://github.com/razashoeb840/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3046-split-the-array](https://github.com/razashoeb840/Leetcode/tree/master/3046-split-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/razashoeb840/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/razashoeb840/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/razashoeb840/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/razashoeb840/Leetcode/tree/master/2974-minimum-number-game) |
+| [3028-ant-on-the-boundary](https://github.com/razashoeb840/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/razashoeb840/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/razashoeb840/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/razashoeb840/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/razashoeb840/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/razashoeb840/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/razashoeb840/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [3028-ant-on-the-boundary](https://github.com/razashoeb840/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Two Pointers
 |  |
 | ------- |
