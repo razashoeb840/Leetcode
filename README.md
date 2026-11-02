@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3917-count-indices-with-opposite-parity](https://github.com/razashoeb840/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/razashoeb840/Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/razashoeb840/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [3978-unique-middle-element](https://github.com/razashoeb840/Leetcode/tree/master/3978-unique-middle-element) |
 | [3979-maximum-valid-pair-sum](https://github.com/razashoeb840/Leetcode/tree/master/3979-maximum-valid-pair-sum) |
 ## Math
 |  |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/razashoeb840/Leetcode/tree/master/3046-split-the-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/razashoeb840/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/razashoeb840/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
+| [3978-unique-middle-element](https://github.com/razashoeb840/Leetcode/tree/master/3978-unique-middle-element) |
 ## Bit Manipulation
 |  |
 | ------- |
