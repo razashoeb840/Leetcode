@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/razashoeb840/Leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/razashoeb840/Leetcode/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/razashoeb840/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/razashoeb840/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/razashoeb840/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/razashoeb840/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/razashoeb840/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/razashoeb840/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/razashoeb840/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/razashoeb840/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/razashoeb840/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/razashoeb840/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/razashoeb840/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/razashoeb840/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0287-find-the-duplicate-number](https://github.com/razashoeb840/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/razashoeb840/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0821-shortest-distance-to-a-character](https://github.com/razashoeb840/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/razashoeb840/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/razashoeb840/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/razashoeb840/Leetcode/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/razashoeb840/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/razashoeb840/Leetcode/tree/master/0338-counting-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/razashoeb840/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/razashoeb840/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -553,4 +557,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/razashoeb840/Leetcode/tree/master/0014-longest-common-prefix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/razashoeb840/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/razashoeb840/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
