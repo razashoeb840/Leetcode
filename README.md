@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/razashoeb840/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/razashoeb840/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/razashoeb840/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/razashoeb840/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/razashoeb840/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/razashoeb840/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/razashoeb840/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/razashoeb840/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/razashoeb840/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/razashoeb840/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/razashoeb840/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/razashoeb840/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2540-minimum-common-value](https://github.com/razashoeb840/Leetcode/tree/master/2540-minimum-common-value) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/razashoeb840/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0821-shortest-distance-to-a-character](https://github.com/razashoeb840/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/razashoeb840/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/razashoeb840/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/razashoeb840/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/razashoeb840/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/razashoeb840/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/razashoeb840/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/razashoeb840/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/razashoeb840/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/razashoeb840/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/razashoeb840/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/razashoeb840/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
