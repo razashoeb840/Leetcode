@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/razashoeb840/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/razashoeb840/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/razashoeb840/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/razashoeb840/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/razashoeb840/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/razashoeb840/Leetcode/tree/master/2418-sort-the-people) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/razashoeb840/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/razashoeb840/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/razashoeb840/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/razashoeb840/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/razashoeb840/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/razashoeb840/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2315-count-asterisks](https://github.com/razashoeb840/Leetcode/tree/master/2315-count-asterisks) |
