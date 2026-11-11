@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/razashoeb840/Leetcode/tree/master/0908-smallest-range-i) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/razashoeb840/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/razashoeb840/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1447-simplified-fractions](https://github.com/razashoeb840/Leetcode/tree/master/1447-simplified-fractions) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/razashoeb840/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/razashoeb840/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/razashoeb840/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1447-simplified-fractions](https://github.com/razashoeb840/Leetcode/tree/master/1447-simplified-fractions) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/razashoeb840/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/razashoeb840/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/razashoeb840/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/razashoeb840/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0821-shortest-distance-to-a-character](https://github.com/razashoeb840/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1446-consecutive-characters](https://github.com/razashoeb840/Leetcode/tree/master/1446-consecutive-characters) |
+| [1447-simplified-fractions](https://github.com/razashoeb840/Leetcode/tree/master/1447-simplified-fractions) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/razashoeb840/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1556-thousand-separator](https://github.com/razashoeb840/Leetcode/tree/master/1556-thousand-separator) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/razashoeb840/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -584,4 +587,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/razashoeb840/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/razashoeb840/Leetcode/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/razashoeb840/Leetcode/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
