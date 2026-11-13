@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/razashoeb840/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/razashoeb840/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/razashoeb840/Leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2582-pass-the-pillow](https://github.com/razashoeb840/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2651-calculate-delayed-arrival-time](https://github.com/razashoeb840/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2843-count-symmetric-integers](https://github.com/razashoeb840/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/razashoeb840/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/razashoeb840/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/razashoeb840/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2582-pass-the-pillow](https://github.com/razashoeb840/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2974-minimum-number-game](https://github.com/razashoeb840/Leetcode/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/razashoeb840/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/razashoeb840/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
