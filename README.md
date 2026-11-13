@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/razashoeb840/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/razashoeb840/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/razashoeb840/Leetcode/tree/master/3099-harshad-number) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/razashoeb840/Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/razashoeb840/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/razashoeb840/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/razashoeb840/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/razashoeb840/Leetcode/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/razashoeb840/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/razashoeb840/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/razashoeb840/Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/razashoeb840/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/razashoeb840/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
