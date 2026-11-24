@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3917-count-indices-with-opposite-parity](https://github.com/razashoeb840/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/razashoeb840/Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/razashoeb840/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/razashoeb840/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/razashoeb840/Leetcode/tree/master/3978-unique-middle-element) |
 | [3979-maximum-valid-pair-sum](https://github.com/razashoeb840/Leetcode/tree/master/3979-maximum-valid-pair-sum) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/razashoeb840/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/razashoeb840/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/razashoeb840/Leetcode/tree/master/2540-minimum-common-value) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/razashoeb840/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/razashoeb840/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Stack
 |  |
 | ------- |
