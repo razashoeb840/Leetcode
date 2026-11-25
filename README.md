@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/razashoeb840/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/razashoeb840/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/razashoeb840/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/razashoeb840/Leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/razashoeb840/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/razashoeb840/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/razashoeb840/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/razashoeb840/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/razashoeb840/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/razashoeb840/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/razashoeb840/Leetcode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/razashoeb840/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/razashoeb840/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0821-shortest-distance-to-a-character](https://github.com/razashoeb840/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
